@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tron-kt-jvm">
+    <output-path>$PROJECT_DIR$/tron-kt/build/libs</output-path>
+    <root id="archive" name="tron-kt-jvm.jar">
+      <element id="module-output" name="tron-kt.tron-kt.jvmMain" />
+    </root>
+  </artifact>
+</component>
